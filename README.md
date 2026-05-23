@@ -1,7 +1,8 @@
 # DMA Add-on Documentation
  
 > **Note:** Sections marked `<!-- TODO -->` still need additional information.
-> Note2: This README file was made using the help of AI for the purposes of documentation.
+
+Note2: This README file was made using the help of AI for the purposes of documentation.
  
 ---
  
