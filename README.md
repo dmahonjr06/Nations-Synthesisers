@@ -1,6 +1,7 @@
 # DMA Add-on Documentation
  
 > **Note:** Sections marked `<!-- TODO -->` still need additional information.
+> Note2: This README file was made using the help of AI for the purposes of documentation.
  
 ---
  
@@ -25,7 +26,7 @@
  
 ## Overview
  
-The DMA add-on adds a metalworking and foundry progression system to Minecraft Bedrock. You'll smelt and cast new metals — steel and titanium — using custom blocks and tools, and eventually craft powerful foundry items that produce resources automatically.
+The Foundries add-on adds a metalworking and foundry progression system to Minecraft Bedrock. You'll smelt and cast new metals — steel and titanium — using custom blocks and tools, and eventually craft powerful foundry items that produce resources automatically.
  
 ---
  
